@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shoot The Alien</string>
+
+    <string name="privacy_policy_link" translatable="false">
+        https://www.termsfeed.com/live/c17cbe6e-9dcf-4226-ae04-d6b352d3158f
+    </string>
+    <string name="play_store_link" translatable="false">
+        https://play.google.com/store/apps/dev?id=7862095023254906088
+    </string>
+
+    <string name="choose_language"> Pilih Bahasa :</string>
+    <string name="perbanyak_score_dengan_menembak_pesawat_alien_nyawa_akan_bertambah_1_ketika_score_mencapai_10_30_60_dan_game_akan_berakhir_ketika_score_mencapai_100_atau_nyawa_habis">Perbanyak Score Dengan Menembak Pesawat Alien, Nyawa Akan Bertambah 1 Ketika Score Mencapai 10, 30, 60. Dan Game Akan Berakhir Ketika Score Mencapai 100 Atau Nyawa Habis.</string>
+    <string name="you_did_it">Anda Berhasil !!!</string>
+    <string name="keluar">Keluar</string>
+    <string name="your_score">Skor Anda :</string>
+    <string name="versi_1_0">versi: 1.0</string>
+    <string name="language">Bahasa</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="score">Skor\u0020</string>
+
+    <string name="hapus_akun">Hapus Akun</string>
+    <string name="settings">Pengaturan</string>
+    <string name="leaderboard">Papan Skor</string>
+    <string name="forgot_password">lupa password?</string>
+    <string name="don_t_have_an_account">belum punya akun?\u0020</string>
+    <string name="play">Mulai</string>
+    <string name="reset_password">Setel Ulang Password</string>
+    <string name="back">Kembali</string>
+    <string name="enter_your_email">masukkan email anda</string>
+    <string name="enter_your_pass">Masukkan password Anda</string>
+
+    <string name="anda_yakin_untuk_hapus_akun">anda yakin untuk Hapus Akun?</string>
+    <string name="ya">Iya</string>
+    <string name="no">Tidak</string>
+    <string name="sukses_menghapus_akun">Sukses Menghapus Akun</string>
+    <string name="gagal_menghapus_akun">Gagal Menghapus Akun</string>
+    <string name="masukkan_email_yang_benar">Masukkan Email Yang Benar</string>
+    <string name="password_harus_setidaknya_6_karakter">Password Harus Setidaknya 6 Karakter</string>
+    <string name="password_dan_confirm_password_harus_sama">Confirm Password Dan Password Harus Sama</string>
+    <string name="sukses_daftar">Berhasil Daftar</string>
+    <string name="gagal_daftar">Gagal Daftar</string>
+    <string name="email_pass_has_been_sent">Email reset password telah dikirim</string>
+    <string name="failed_to_sent_email_reset_pass">Gagal Mengirim Email reset password</string>
+    <string name="already_have_an_account">sudah punya akun?\u0020</string>
+    <string name="dengan_mengklik_tombol_hijau_anda_akan_menerima_email_dari_ikhwan_hanif_untuk_mereset_password_anda">Dengan mengklik Tombol Hijau, anda akan menerima email dari ikhwan_hanif untuk mereset password anda</string>
+
+    <string name="tekan_dimana_saja_untuk_lanjut1">lanjut</string>
+    <string name="tekan_dimana_saja_untuk_lanjut2">lanjut</string>
+    <string name="tekan_dimana_saja_untuk_lanjut3">lanjut</string>
+    <string name="tekan_dimana_saja_untuk_mulai">Ayo Mulai!</string>
+    <string name="text4">Shoot The Alien tidak hanya menghibur pemain dengan aksi yang cepat dan grafis yang memukau, tetapi juga menghadirkan cerita yang mendalam tentang keberanian, persahabatan, dan perjuangan melawan kejahatan di seluruh galaksi.</string>
+    <string name="text3">Saat mereka memasuki pertempuran terakhir di dekat pusat galaksi, pilot manusia menghadapi bos alien yang paling kuat. Dengan keberanian dan ketangguhan mereka, mereka berhasil mengalahkan bos tersebut dan mengusir armada alien dari galaksi, menyelamatkan koloni manusia dan memulihkan perdamaian di luar angkasa.</string>
+    <string name="text2">Selama perjalanan mereka melintasi berbagai sistem planet, pilot tersebut menghadapi berbagai tantangan dan rintangan. Mereka harus menghadapi serangan mendadak, menjinakkan pesawat alien yang ganas, dan menemukan kelemahan armada musuh.</string>
+    <string name="text1">Ketika armada alien muncul secara tiba-tiba dari lubang cacing di luar angkasa, pilot manusia yang berani segera dipanggil untuk bertempur. Dipersenjatai dengan pesawat ruang angkasa terbaru, pilot kita meluncur ke medan perang untuk melindungi koloni manusia dari ancaman alien yang misterius.</string>
+
+    <string name="infoLeaderboard">Leaderboard akan menampilkan Skor user dari tertinggi sampai terendah, Untuk membuat permainan semakin menantang Skor yang akan ditampilkan di Leaderboard adalah skor dengan difficult Medium atau Hard dan skor yang baru saja di dapatkan, bukan HIGHSCORE.</string>
+    <string name="berhasil_memilih_skin1">Berhasil memilih Star Voyager</string>
+    <string name="berhasil_memilih_skin2">Berhasil memilih Galaxy Cruiser</string>
+    <string name="berhasil_memilih_skin3">Berhasil memilih Nebula Fighter</string>
+    <string name="choose_spaceship">Pilih Pesawat</string>
+    <string name="pesawat">Pesawat</string>
+    <string name="difficult">Kesulitan</string>
+    <string name="reset_password_hanya_bisa_dilakukan_jika_email_yang_anda_daftarkan_sebelumnya_merupakan_email_aktif_jika_email_yang_anda_daftarkan_sebelumnya_tidak_aktif_anda_bisa_menghubungi_developer_untuk_reset_password">Reset password hanya bisa dilakukan jika email yang anda daftarkan sebelumnya merupakan email aktif, jika email yang anda daftarkan sebelumnya tidak aktif anda bisa menghubungi developer untuk reset password</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="belum_ada_pesan">Belum ada pesan</string>
+
+</resources>

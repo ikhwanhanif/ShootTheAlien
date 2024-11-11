@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="vertical"
+    android:background="@drawable/background_chat"
+    android:padding="20dp">
+
+<TextView
+android:id="@+id/textViewSenderName"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:fontFamily="serif"
+android:textStyle="bold"
+android:textColor="@android:color/holo_blue_dark"
+android:text="Sender Name" />
+
+<TextView
+android:id="@+id/textViewContent"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+    android:justificationMode="inter_word"
+android:textStyle="bold"
+    android:fontFamily="serif"
+    android:text="Message content" />
+
+<TextView
+android:id="@+id/textViewTimestamp"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+    android:layout_gravity="end"
+    android:gravity="end"
+android:fontFamily="serif"
+android:textSize="10sp"
+android:textColor="@android:color/black"
+android:text="Timestamp" />
+    </LinearLayout>
